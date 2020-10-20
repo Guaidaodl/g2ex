@@ -1,0 +1,3 @@
+rootProject.name = "G2EX"
+include ':app'
+include ':log'
